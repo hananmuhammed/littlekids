@@ -8304,6 +8304,10 @@ fieldset:disabled .btn {
     color: #0dcaf0 !important
 }
 
+.text-trip {
+    color: #8dc53e !important
+}
+
 .text-warning {
     color: #ffc107 !important
 }
@@ -8358,6 +8362,10 @@ fieldset:disabled .btn {
 
 .bg-info {
     background-color: #0dcaf0 !important
+}
+
+.bg-trip {
+    background-color: #8dc53e !important
 }
 
 .bg-warning {
